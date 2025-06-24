@@ -1,4 +1,12 @@
 ## Takım Üyeleri
+|İsim            |  Görev
+|----------------|---------------------|
+|Özgün Büyüktanır|                     |  
+|Kubilay Karaçar |                     |
+| Enes Türköz    |                     |
+|Dilara Temiz    |                     |
+| Ekin Karabulut |                     |
+
 ## Ürün Adı ve Açıklaması
 ## Ürün Özellikleri
 ## Hedef Kitle
